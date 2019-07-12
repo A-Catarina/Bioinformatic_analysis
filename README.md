@@ -6,4 +6,6 @@ This work objective was to implement a bioinformatic pipeline of biological sequ
   - Phylogenetic Tree Construction
   - Graph Construction
   
-This tasks were accomplished by the implementation of a set of classes included on the repository.
+This tasks were accomplished by the implementation of a set of classes, included on the repository, in Python.
+
+The execution of the task itself is implemented on the run_me.py file.
